@@ -1,8 +1,7 @@
-
 {
   "enabled": true,
-  "version": "2.10",
-  "title": "Update Available",
+  "version": "2.13",
+  "title": "Update Available!!",
   "features": "• New modern UI design\n• Improved performance\n• Bug fixes & stability\n• Enhanced security features\n• Better user experience",
   "buttonText": "UPDATE NOW",
   "showCancel": false,
@@ -11,7 +10,7 @@
   "colorBottom": "#424242",
   "buttonColor1": "#33FFFFFF",
   "buttonColor2": "#1AFFFFFF",
-  "glassMorphism": false,
+  "glassMorphism": true,
   "useGradientBg": true,
   "iconSize": 80,
   "iconUrl": "",
