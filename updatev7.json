@@ -1,1 +1,21 @@
 
+{
+  "enabled": true,
+  "version": "2.10",
+  "title": "Update Available",
+  "features": "• New modern UI design\n• Improved performance\n• Bug fixes & stability\n• Enhanced security features\n• Better user experience",
+  "buttonText": "UPDATE NOW",
+  "showCancel": false,
+  "cancelable": false,
+  "colorTop": "#1A1A1A",
+  "colorBottom": "#424242",
+  "buttonColor1": "#33FFFFFF",
+  "buttonColor2": "#1AFFFFFF",
+  "glassMorphism": false,
+  "useGradientBg": true,
+  "iconSize": 80,
+  "iconUrl": "",
+  "iconAsset": "",
+  "backgroundUrl": "",
+  "backgroundAsset": ""
+}
