@@ -11,7 +11,7 @@
   "buttonColor1": "#33FFFFFF",
   "buttonColor2": "#1AFFFFFF",
   "glassMorphism": true,
-  "useGradientBg": false,
+  "useGradientBg": true,
   "iconSize": 80,
   "iconUrl": "",
   "iconAsset": "",
